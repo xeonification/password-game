@@ -19,17 +19,8 @@ A real-time, multiplayer **Password** word-guessing game that runs entirely in t
 
 - Everyone on their own screen — the secret word is sent **only** to the current clue-giver's device.
 - Host controls: shuffle / reshuffle teams, editable team names, round settings (time, starting points, number of rounds), a custom word list, **cancel game**, **disqualify team** (points split among the rest), and **void round** for fouls.
-- Confetti on a correct guess and a big red ✕ on a wrong guess/pass, on every screen.
+- Green Tick on a correct guess and a big red ✕ on a wrong guess/pass, on every screen.
 - Screen stays awake during play; games survive an accidental refresh.
-
-## Hosting it yourself
-
-It's a single self-contained HTML file — host it anywhere static:
-
-- **GitHub Pages:** put the file in your repo as `index.html`, then enable Pages (Settings → Pages → deploy from branch).
-- Or drag it onto **Netlify Drop**, **Cloudflare Pages**, **Vercel**, or **itch.io**.
-
-> ⚠️ It must be opened over **https** in a normal browser tab (not inside an editor preview), since it uses WebRTC.
 
 ## How it works
 
@@ -44,4 +35,9 @@ It's a single self-contained HTML file — host it anywhere static:
 
 ---
 
-Built for fun for party with friends. 
+## Backstory
+
+My wife and me were heading to a staycation with a bunch of other families. We watched this game on Jimmy Fallon Live and wanted to play it with our friends. She planned to get the passwords printed on paper but forgot in the wick of the moment while leaving her office. She came and told me about it and i thought why not try and make one (with the help of Claude). I got to get this working in a matter of an hour. But i did spend some time play testing it with the group and made a few more changes which make the connection reliable.
+
+Please send any feedback on  
+xeon.base@gmail.com

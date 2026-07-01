@@ -1,8 +1,8 @@
-# 🔒 Password — party game
+# Password — party game
 
 A real-time, multiplayer **Password** word-guessing game that runs entirely in the browser. Everyone plays on their own phone, there's **no sign-in and no accounts**, and there's **no server to run** — devices connect peer-to-peer over a free public broker.
 
-👉 **[Play it here](https://YOUR-USERNAME.github.io/YOUR-REPO/)** *(replace with your Pages URL)*
+👉 **[Play it here](https://magnificent-crisp-ce516b.netlify.app/)**
 
 ## How to play
 
